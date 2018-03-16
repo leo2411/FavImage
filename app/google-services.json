@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "21928125740",
+    "firebase_url": "https://favimg-2aeee.firebaseio.com",
+    "project_id": "favimg-2aeee",
+    "storage_bucket": "favimg-2aeee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21928125740:android:82a67b0f4acb029f",
+        "android_client_info": {
+          "package_name": "com.example.leo.fireuploimg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21928125740-i8ptuv3oh92p8o7lk2v9ed1ci46eea1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leo.fireuploimg",
+            "certificate_hash": "40f42b36d9c0bcf5342021dc48ec1104eba3a150"
+          }
+        },
+        {
+          "client_id": "21928125740-5ulu0ool1f38mpog27aavmohu4sd4oqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxUVRckt3uR2KzFh2ximZfb6RICyoLIVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21928125740-5ulu0ool1f38mpog27aavmohu4sd4oqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
